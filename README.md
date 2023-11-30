@@ -1,2 +1,2 @@
 # Tamagotchi_1
-This was a fun project I did when I learnded about python POO, might try something diferent in future using this :)
+This was a fun project I did when I learned about python POO, might try something different in future using this :)
